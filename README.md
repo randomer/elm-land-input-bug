@@ -1,16 +1,8 @@
 # elm-land-input-bug
-> Built with [Elm Land](https://elm.land) 🌈
 
-## Local development
+Reproduction of the Elm Land bug where the caret jumps to the end of the input when typing.
 
 ```bash
 # Requires Node.js v18+ (https://nodejs.org)
 npm i && npm start
 ```
-
-## Deploying to production
-
-Elm Land projects are most commonly deployed as static websites.
-
-Please visit [the "Deployment" guide](https://elm.land/guide/deploying) to learn more
-about deploying your app for free using Netlify or Vercel.
